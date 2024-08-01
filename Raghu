@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raghuveera V's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .content {
+            padding: 2em;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        footer {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Raghuveera V</h1>
+        <p>Email: <a href="mailto:raghuv467@gmail.com">raghuv467@gmail.com</a></p>
+    </header>
+
+    <div class="content">
+        <div class="section">
+            <h2>Invention of New Thoughts</h2>
+            <p>Welcome to my personal webpage. Here, I share innovative ideas and concepts that can be helpful to society or individuals, irrespective of the sector. These thoughts are meant to inspire and create a positive impact.</p>
+        </div>
+
+        <!-- Example of a New Thought Section -->
+        <div class="section">
+            <h3>Thought Title 1</h3>
+            <p>Description of the innovative idea or thought. How it can be beneficial and its potential impact.</p>
+        </div>
+
+        <div class="section">
+            <h3>Thought Title 2</h3>
+            <p>Description of another innovative idea or thought. How it can be beneficial and its potential impact.</p>
+        </div>
+
+        <!-- Add more sections as needed -->
+    </div>
+
+    <footer>
+        &copy; 2024 Raghuveera V. All rights reserved.
+    </footer>
+</body>
+</html>
